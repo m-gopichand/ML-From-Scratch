@@ -4,7 +4,6 @@ from sklearn.preprocessing import StandardScaler
 from pandas import DataFrame
 from sklearn import datasets
 
-
 __all__ = ['regression_data', 'classification_data']
 
 def regression_data():
